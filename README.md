@@ -1,2 +1,2 @@
 # xp-el_kassa
-Betalsystem_xp-el
+Betalsystem för xp-el som ska delas upp i klienter och server
